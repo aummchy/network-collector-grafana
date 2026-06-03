@@ -11,3 +11,9 @@ cd D:\info
 python network_collector.py
 
 ---
+
+## Results
+
+Here is a screenshot of the network collector and server output:
+
+![Project Result](images/imag.jpeg)
